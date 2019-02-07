@@ -1,6 +1,5 @@
 package edu.jsu.mcis;
 
-
 public class TicTacToeMove {
     
     private final int row;
